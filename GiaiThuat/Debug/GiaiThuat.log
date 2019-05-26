@@ -1,0 +1,5 @@
+﻿  BubbleSort.cpp
+  main.cpp
+e:\project\giaithuat\giaithuat\main.cpp(83): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  GiaiThuat.vcxproj -> E:\project\GiaiThuat\Debug\GiaiThuat.exe

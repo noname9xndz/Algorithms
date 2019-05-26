@@ -1,0 +1,4 @@
+﻿E:\Microsoft Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GiaiThuat.vcxproj, Sort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Search.cpp
+e:\project\giaithuat\search\search.cpp(31): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GiaiThuat.vcxproj -> E:\project\GiaiThuat\x64\Debug\Sort and Search.exe
